@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fea55300-ff31-4dcb-a753-87e27fa18ecc",
+  "export_job_id": "89c982e4-fa95-460e-8e3e-58e1058ebd6e",
   "id_short": 666177,
-  "published_at": "2026-04-16T07:48:23Z",
+  "published_at": "2026-04-19T07:12:56Z",
   "repo_name": "top-50-restaurant-category-dominators-in-arkansas-us-sample-666177",
   "sample_asset_name": "beamstation_666177_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/666177/beamstation_666177_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_records": 5,
   "sample_sha256": "113e9fb460f72b466c6798a31d3f57675e01262e397f8806bef6ad505156f64c",
   "sample_size_bytes": 40201,
-  "total_records": 49
+  "total_records": 50
 }
