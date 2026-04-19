@@ -9,9 +9,9 @@
 | Dataset ID | `666177` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 49 records |
-| Free sample size | 5 records (10.2%) |
-| Last export | 2026-04-07T17:55:07.753785+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-14T23:27:23.961084+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-arkansas-us-sample-666177/releases/download/sample-latest/beamstation_666177_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
