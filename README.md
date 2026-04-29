@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Arkansas, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `666177` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 45 records |
-| Free sample size | 4 records (8.89%) |
-| Last export | 2026-04-22T03:00:56.231282+00:00 |
+| Full dataset size | 54 records |
+| Free sample size | 5 records (9.26%) |
+| Last export | 2026-04-29T05:50:53.220477+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-arkansas-us-sample-666177/releases/download/sample-latest/beamstation_666177_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
